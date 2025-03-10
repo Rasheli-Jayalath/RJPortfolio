@@ -61,7 +61,7 @@ const About = () => {
 								</div>
 									{/* About Extra Images Section */}		
 								<div className="about-extra-images">
-									<div className="image-item" onClick={() => openPopup("./work1.png")}>
+									<div className="image-item" onClick={() => openPopup("./Work1.png")}>
 										<img src="./work1.png" alt="Work 1" className="about-extra-image" />
 										<div className="image-title">My Journey as an Assistant Lecturer</div>
 									</div>

@@ -3,7 +3,7 @@ const INFO = {
 		title: "RJPortfolio",
 		name: "Rasheli.",
 		email: "jayalathrasheli@gmail.com",
-		logo: "../logo.png",
+		logo: `${process.env.PUBLIC_URL}/logo.png`,
 	},
 
 	socials: {

@@ -28,7 +28,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./sj.png"
+								src="./SJ.png"
 								alt="SJ"
 								className="work-image"
 							/>

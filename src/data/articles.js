@@ -19,7 +19,7 @@ function article_1() {
 					<div className="paragraph">{INFO.articles.article1_intro}</div>
 					<a href="http://dx.doi.org/10.13140/RG.2.2.14911.21926" target="_blank" rel="noopener noreferrer">
 						<img
-							src="/ART1.png"
+							src={`${process.env.PUBLIC_URL}/ART1.png`}
 							alt="article1"
 							className="artImage"
 						/>
